@@ -37,3 +37,4 @@ fastapi== 0.114.1
 yfinance==0.2.50
 matplotlib==3.9.3
 seaborn==0.13.2
+numpy==2.2.0
