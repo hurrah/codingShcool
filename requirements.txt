@@ -35,3 +35,4 @@ urllib3== 2.2.3
 SQLAlchemy== 2.0.34
 fastapi== 0.114.1
 yfinance==0.2.50
+matplotlib==3.9.3
